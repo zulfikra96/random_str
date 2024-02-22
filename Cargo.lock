@@ -62,7 +62,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "random_str"
+name = "simpl_random_str"
 version = "0.1.0"
 dependencies = [
  "rand",

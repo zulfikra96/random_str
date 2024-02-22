@@ -2,7 +2,11 @@
 name = "random_str"
 version = "0.1.0"
 edition = "2021"
-
+authors = ["Zulfikra <zulfikralahmudin@gmail.com>"]
+description = "A function to generate random string by lenght of value"
+homepage = "https://github.com/zulfikra96"
+repository = "https://github.com/zulfikra96/random_str"
+license = "MIT OR Apache-2.0"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
